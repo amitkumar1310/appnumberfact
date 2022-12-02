@@ -10,7 +10,7 @@ const loadText='Wait a little bit';
     
      //fetch(baseurl+number+"/"+type)
 factDiv.innerHTML=loadText;
- const baseurl='https://cors-anywhere.herokuapp.com/http://numbersapi.com/';
+ const baseurl='https://github.com/Rob--W/cors-anywhere/issues/301/http://numbersapi.com/';
  fetch(baseurl+number+"/"+type,{
      method:"GET",
     headers:{
